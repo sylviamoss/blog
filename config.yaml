@@ -1,10 +1,9 @@
 baseURL: https://sylviamoss.github.io
 languageCode: en-us
 defaultContentLanguage: en
-title: My Ego Dev
+title: Sylvia Moss
 theme: cupper-hugo-theme
-# googleAnalytics: UA-123456789-1
-# disqusShortname: yourdiscussshortname
+disqusShortname: moss
 enableGitInfo: true
 
 taxonomies:
@@ -18,11 +17,11 @@ imaging:
   quality: 99
 
 params:
-  description: My Ego dev thing and some music I listen while coding.
+  description: My dev things and some music I listen while coding.
   homeMetaContent: Just dev related thing I did and think about. Some musics I listen while coding as well.
   footer: Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme).
   # For more date formats see https://gohugo.io/functions/format/
-  dateFormat: Mon, 02 Jan 2006 15:04:05 MST
+  dateFormat: Mon, 02 Jan 2006
   katex: true
 
 menu:
