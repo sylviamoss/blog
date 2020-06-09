@@ -1,10 +1,10 @@
-baseURL: https://example.com
+baseURL: https://sylviamoss.github.io
 languageCode: en-us
 defaultContentLanguage: en
-title: Cupper
+title: My Ego Dev
 theme: cupper-hugo-theme
-googleAnalytics: UA-123456789-1
-disqusShortname: yourdiscussshortname
+# googleAnalytics: UA-123456789-1
+# disqusShortname: yourdiscussshortname
 enableGitInfo: true
 
 taxonomies:
@@ -12,17 +12,17 @@ taxonomies:
 
 permalinks:
   post: /:filename/
+  playlist: /:filename/
 
 imaging:
   quality: 99
 
 params:
-  description: An accessibility-friendly Hugo theme, ported from the [original Cupper](https://github.com/ThePacielloGroup/cupper) project.
-  homeMetaContent: An accessibility-friendly Hugo theme, ported from the original Cupper project.
-  footer: Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to [Netlify](https://www.netlify.com/).
+  description: My Ego dev thing and some music I listen while coding.
+  homeMetaContent: Just dev related thing I did and think about. Some musics I listen while coding as well.
+  footer: Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme).
   # For more date formats see https://gohugo.io/functions/format/
-  dateFormat: Jan 2, 2006
-  codePenUser: someUser
+  dateFormat: Mon, 02 Jan 2006 15:04:05 MST
   katex: true
 
 menu:
@@ -33,15 +33,12 @@ menu:
     - name: Blog
       url: /post/
       weight: 2
+    - name: Playlist
+      url: /playlist/
+      weight: 3
     - name: Tags
       url: /tags/
-      weight: 3
-    - name: About
-      url: /about/
       weight: 4
-    - name: RSS
-      url: /index.xml
-      weight: 5
 
 markup:
   defaultMarkdownHandler: goldmark
