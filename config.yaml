@@ -23,6 +23,7 @@ params:
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat: Mon, 02 Jan 2006
   katex: true
+  darkThemeAsDefault: false
 
 menu:
   nav:
