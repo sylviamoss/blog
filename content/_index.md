@@ -7,6 +7,7 @@ date: "2017-06-26T18:27:58+01:00"
 <link href='//cdn.jsdelivr.net/devicons/1.8.0/css/devicons.min.css' rel='stylesheet'>
 <link rel="stylesheet" href="https://cdn.rawgit.com/konpa/devicon/df6431e323547add1b4cf45992913f15286456d3/devicon.min.css">
 <link rel="stylesheet" type="text/css" href="home.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 
 <h2>hello you, welcome!</h2>
@@ -18,6 +19,9 @@ You will find here some good stuff about coding, being a developer, and music.
 
 
 <div id="social-icons">
+    <a href="https://soundcloud.com/sylviamoss">
+      <i class="fa fa-soundcloud"></i>
+    </a>
     <a href="https://www.linkedin.com/in/sylviamossm/">
       <i class="fab fa-linkedin-in"></i>
     </a>
