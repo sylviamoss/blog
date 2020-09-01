@@ -9,7 +9,6 @@ date: "2017-06-26T18:27:58+01:00"
 <link rel="stylesheet" type="text/css" href="home.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-
 <h2>hello you, welcome!</h2>
 
 My name is Sylvia Moss Martinez and I'm an Engineer at HashiCorp.    
@@ -42,10 +41,3 @@ You will find here some good stuff about coding, being a developer, and music.
   <i class="devicon-heroku-original"></i>
   <i class="devicon-mongodb-plain"></i>
 </div>
-
-<!-- <h3 id="technologies">INTERESTS</h3>
-<div id="technologies-icons">
-  <i class="devicon-python-plain" title="Python"></i>
-  <i class="devicon-react-original" title="React"></i>
-</div>
-</div>  -->
