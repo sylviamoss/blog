@@ -11,9 +11,8 @@ date: "2017-06-26T18:27:58+01:00"
 
 <h2>hello you, welcome!</h2>
 
-My name is Sylvia Moss Martinez and I'm an Engineer at HashiCorp.    
-   
-This is supposed to be a nice source of good information, nothing too heavy, just the necessary. 
+I am Sylvia Moss Martinez. I work as an Engineer at HashiCorp. 
+
 You will find here some good stuff about coding, being a developer, and music. 
 
 
@@ -27,17 +26,22 @@ You will find here some good stuff about coding, being a developer, and music.
     <a href="https://github.com/sylviamoss">
       <i class="fab fa-github"></i>
     </a>
-    <a href="https://github.com/sylviamoss/sylviamoss.github.io/raw/master/SylviaMossResume.pdf" title="Resume">
+    <!-- <a href="https://github.com/sylviamoss/sylviamoss.github.io/raw/master/SylviaMossResume.pdf" title="Resume">
       <i class="fas fa-download"></i>
-    </a>
+    </a> -->
 </div>
 
-<h3 id="technologies">some technologies I like</h3>
+### projects
+[VacinaPet](https://vacinapet.com) |
+[diceware-cli](https://github.com/sylviamoss/diceware-cli)   
+
+
+<h3 id="technologies">technologies I like</h3>
 <div id="technologies-icons">
   <i class="devicon-go-plain" title="Golang"></i>
   <i class="devicon-react-original"></i>
   <i class="fab fa-docker" title="Docker"></i>
   <i class="fab fa-aws" title="AWS"></i>
-  <i class="devicon-heroku-original"></i>
+  <!-- <i class="devicon-heroku-original"></i> -->
   <i class="devicon-mongodb-plain"></i>
 </div>
