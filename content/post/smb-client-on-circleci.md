@@ -5,8 +5,6 @@ title: "Acceptance testing a SMB client on CircleCI"
 ---
 
 ## Background
-A
-AAAAAAA
 The [hashicorp/go-getter](https://github.com/hashicorp/go-getter) library is largely used through HashiCorp products such as [Packer](https://www.packer.io/), [Nomad](https://www.nomadproject.io/), and [Terraform](https://www.terraform.io/). According to the library documentation:    
 
 > go-getter is a library for Go (golang) for downloading files or directories from various sources using a URL as the primary form of input. The power of this library is being flexible in being able to download from a number of different sources (file paths, Git, HTTP, Mercurial, etc.) using a single string as input. 
