@@ -39,7 +39,7 @@ You will find here some good stuff about coding, being a developer, and music.
 <h3 id="technologies">technologies I like</h3>
 <div id="technologies-icons">
   <i class="devicon-go-plain" title="Golang"></i>
-  <i class="devicon-react-original"></i>
+  <!-- <i class="devicon-react-original"></i> -->
   <i class="fab fa-docker" title="Docker"></i>
   <i class="fab fa-aws" title="AWS"></i>
   <!-- <i class="devicon-heroku-original"></i> -->
